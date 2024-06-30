@@ -1,10 +1,10 @@
-package online.vikramaaditya.microservice;
+package online.vikramaaditya.address;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroserviceApplicationTests {
+class AddressApplicationTests {
 
 	@Test
 	void contextLoads() {

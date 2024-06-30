@@ -1,4 +1,4 @@
-package online.vikramaaditya.microservice;
+package online.vikramaaditya.student;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
